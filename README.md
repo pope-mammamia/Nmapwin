@@ -208,4 +208,4 @@ NMapWin is offered as a complete free version with all features and updates incl
 Take control of your network security today—**download NMapWin for free and secure your systems!**
 
 ---
-**Last updated:** 2026-10-16 19:12:18 UTC
+**Last updated:** 2026-10-16 22:24:38 UTC
